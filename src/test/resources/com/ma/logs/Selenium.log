@@ -1,0 +1,62 @@
+17:48:15,094 DEBUG devpinoyLogger:53 - config file loaded
+17:48:15,094 DEBUG devpinoyLogger:67 - OR file loaded
+17:48:22,205 DEBUG devpinoyLogger:89 - chrome launched
+17:48:25,977 DEBUG devpinoyLogger:96 - navigated to :https://myaccealp.psc.agilisys.co.uk/web/IL1_Login.aspx
+17:48:28,019 DEBUG devpinoyLogger:140 - typing in an element :username_CSSentered value as :shiivamsundaram@gmail.com
+17:48:28,137 DEBUG devpinoyLogger:140 - typing in an element :password_CSSentered value as :Shivam123
+17:48:29,375 DEBUG devpinoyLogger:116 - Clicking on an element :login_CSS
+17:48:29,403 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+17:48:29,403 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+17:48:29,403 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+17:48:29,403 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+17:48:29,403 DEBUG cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/vamshi/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+17:48:30,392 DEBUG devpinoyLogger:116 - Clicking on an element :changeemail_XPATH
+17:48:30,572 DEBUG devpinoyLogger:140 - typing in an element :newEmail_CSSentered value as :shiivamsundaram@gmail.com
+17:48:30,764 DEBUG devpinoyLogger:140 - typing in an element :confirmEmail_CSSentered value as :shiivamsundaram@gmail.com
+17:48:30,940 DEBUG devpinoyLogger:140 - typing in an element :pswd1_CSSentered value as :Shivam123
+17:48:31,048 DEBUG devpinoyLogger:116 - Clicking on an element :submit_CSS
+17:48:31,925 DEBUG devpinoyLogger:116 - Clicking on an element :myaccount_XPATH
+17:48:33,935 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+17:48:33,935 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+17:48:33,935 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+17:48:33,935 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+17:48:33,935 DEBUG cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/vamshi/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+17:48:34,707 DEBUG devpinoyLogger:116 - Clicking on an element :changepassword_XPATH
+17:48:34,819 DEBUG devpinoyLogger:140 - typing in an element :currentpd_XPATHentered value as :Shivam123
+17:48:34,971 DEBUG devpinoyLogger:140 - typing in an element :newpd_XPATHentered value as :Shivam123
+17:48:35,111 DEBUG devpinoyLogger:140 - typing in an element :confirmnewpd_XPATHentered value as :Shivam123
+17:48:35,601 DEBUG devpinoyLogger:116 - Clicking on an element :changebtn_XPATH
+17:48:36,191 DEBUG devpinoyLogger:116 - Clicking on an element :logout_XPATH
+17:48:36,678 DEBUG devpinoyLogger:116 - Clicking on an element :createaccountTop_XPATH
+17:48:38,685 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+17:48:38,687 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+17:48:38,689 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+17:48:38,690 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+17:48:38,690 DEBUG cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/vamshi/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+17:48:39,375 DEBUG devpinoyLogger:116 - Clicking on an element :createaccountTop_XPATH
+17:48:39,593 DEBUG devpinoyLogger:155 - Selecting from an element : title_CSS value as :Mr
+17:48:39,689 DEBUG devpinoyLogger:140 - typing in an element :fname_CSSentered value as :john
+17:48:39,785 DEBUG devpinoyLogger:140 - typing in an element :lname_CSSentered value as :mark
+17:48:39,946 DEBUG devpinoyLogger:140 - typing in an element :email_CSSentered value as :john4ru@yahoo.com
+17:48:40,104 DEBUG devpinoyLogger:140 - typing in an element :reemail_CSSentered value as :john4ru@yahoo.com
+17:48:40,244 DEBUG devpinoyLogger:140 - typing in an element :pswd_CSSentered value as :John1234
+17:48:40,401 DEBUG devpinoyLogger:140 - typing in an element :repswd_CSSentered value as :John1234
+17:48:40,545 DEBUG devpinoyLogger:155 - Selecting from an element : secQust_CSS value as :What is the name of your first school?
+17:48:40,669 DEBUG devpinoyLogger:140 - typing in an element :secAns_CSSentered value as :stpauls
+17:48:40,770 DEBUG devpinoyLogger:116 - Clicking on an element :checkbox_CSS
+17:48:41,809 DEBUG devpinoyLogger:116 - Clicking on an element :Registration_CSS
+17:48:41,813 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+17:48:41,817 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+17:48:41,817 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+17:48:41,821 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+17:48:41,821 DEBUG cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/vamshi/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+17:48:42,308 DEBUG devpinoyLogger:116 - Clicking on an element :loginTop_XPATH
+17:48:42,812 DEBUG devpinoyLogger:116 - Clicking on an element :resetpassword_CSS
+17:48:42,965 DEBUG devpinoyLogger:140 - typing in an element :emailtext_XPATHentered value as :shiivamsundaram@gmail.com
+17:48:43,646 DEBUG devpinoyLogger:116 - Clicking on an element :btnRecovery_XPATH
+17:48:44,413 DEBUG devpinoyLogger:116 - Clicking on an element :btnclose_XPATH
+17:48:46,419 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+17:48:46,419 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+17:48:46,419 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+17:48:46,419 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+17:48:46,419 DEBUG cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/vamshi/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

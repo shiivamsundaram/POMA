@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="page Object Model">
+
+ <listeners>
+      <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+      <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+     <listener class-name="com.ma.listeners.CustomListeners"/>
+  </listeners>
+  
+  <test thread-count="5" name="Login Test">
+    <classes>
+     
+      <class name="com.ma.testcases.LoginTest"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test thread-count="5" name="Change Email Test">
+    <classes>
+     
+      <class name="com.ma.testcases.ChangeEmailTest"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test thread-count="5" name="Change Password Test">
+    <classes>
+     
+      <class name="com.ma.testcases.ChangePasswordTest"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  
+   <test thread-count="5" name="Create Account Test">
+    <classes>
+     
+      <class name="com.ma.testcases.CreateAccountTest"/>
+    </classes>
+  </test> <!-- Test -->
+  
+     <test thread-count="5" name="Password Recovery Test">
+    <classes>
+     
+      <class name="com.ma.testcases.PasswordRecoveryTest"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  
+</suite> <!-- Suite -->

@@ -1,0 +1,37 @@
+08/06/2018 17:48:15 devpinoyLogger config file loaded
+08/06/2018 17:48:15 devpinoyLogger OR file loaded
+08/06/2018 17:48:22 devpinoyLogger chrome launched
+08/06/2018 17:48:25 devpinoyLogger navigated to :https://myaccealp.psc.agilisys.co.uk/web/IL1_Login.aspx
+08/06/2018 17:48:28 devpinoyLogger typing in an element :username_CSSentered value as :shiivamsundaram@gmail.com
+08/06/2018 17:48:28 devpinoyLogger typing in an element :password_CSSentered value as :Shivam123
+08/06/2018 17:48:29 devpinoyLogger Clicking on an element :login_CSS
+08/06/2018 17:48:30 devpinoyLogger Clicking on an element :changeemail_XPATH
+08/06/2018 17:48:30 devpinoyLogger typing in an element :newEmail_CSSentered value as :shiivamsundaram@gmail.com
+08/06/2018 17:48:30 devpinoyLogger typing in an element :confirmEmail_CSSentered value as :shiivamsundaram@gmail.com
+08/06/2018 17:48:30 devpinoyLogger typing in an element :pswd1_CSSentered value as :Shivam123
+08/06/2018 17:48:31 devpinoyLogger Clicking on an element :submit_CSS
+08/06/2018 17:48:31 devpinoyLogger Clicking on an element :myaccount_XPATH
+08/06/2018 17:48:34 devpinoyLogger Clicking on an element :changepassword_XPATH
+08/06/2018 17:48:34 devpinoyLogger typing in an element :currentpd_XPATHentered value as :Shivam123
+08/06/2018 17:48:34 devpinoyLogger typing in an element :newpd_XPATHentered value as :Shivam123
+08/06/2018 17:48:35 devpinoyLogger typing in an element :confirmnewpd_XPATHentered value as :Shivam123
+08/06/2018 17:48:35 devpinoyLogger Clicking on an element :changebtn_XPATH
+08/06/2018 17:48:36 devpinoyLogger Clicking on an element :logout_XPATH
+08/06/2018 17:48:36 devpinoyLogger Clicking on an element :createaccountTop_XPATH
+08/06/2018 17:48:39 devpinoyLogger Clicking on an element :createaccountTop_XPATH
+08/06/2018 17:48:39 devpinoyLogger Selecting from an element : title_CSS value as :Mr
+08/06/2018 17:48:39 devpinoyLogger typing in an element :fname_CSSentered value as :john
+08/06/2018 17:48:39 devpinoyLogger typing in an element :lname_CSSentered value as :mark
+08/06/2018 17:48:39 devpinoyLogger typing in an element :email_CSSentered value as :john4ru@yahoo.com
+08/06/2018 17:48:40 devpinoyLogger typing in an element :reemail_CSSentered value as :john4ru@yahoo.com
+08/06/2018 17:48:40 devpinoyLogger typing in an element :pswd_CSSentered value as :John1234
+08/06/2018 17:48:40 devpinoyLogger typing in an element :repswd_CSSentered value as :John1234
+08/06/2018 17:48:40 devpinoyLogger Selecting from an element : secQust_CSS value as :What is the name of your first school?
+08/06/2018 17:48:40 devpinoyLogger typing in an element :secAns_CSSentered value as :stpauls
+08/06/2018 17:48:40 devpinoyLogger Clicking on an element :checkbox_CSS
+08/06/2018 17:48:41 devpinoyLogger Clicking on an element :Registration_CSS
+08/06/2018 17:48:42 devpinoyLogger Clicking on an element :loginTop_XPATH
+08/06/2018 17:48:42 devpinoyLogger Clicking on an element :resetpassword_CSS
+08/06/2018 17:48:42 devpinoyLogger typing in an element :emailtext_XPATHentered value as :shiivamsundaram@gmail.com
+08/06/2018 17:48:43 devpinoyLogger Clicking on an element :btnRecovery_XPATH
+08/06/2018 17:48:44 devpinoyLogger Clicking on an element :btnclose_XPATH
